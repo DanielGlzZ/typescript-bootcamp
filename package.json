@@ -1,0 +1,27 @@
+{
+  "name": "typescript-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "calculator": "ts-node calculator.ts",
+    "multiplier": "ts-node multiplier.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielGlzZ/typescript-bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielGlzZ/typescript-bootcamp/issues"
+  },
+  "homepage": "https://github.com/DanielGlzZ/typescript-bootcamp#readme",
+  "devDependencies": {
+    "@types/node": "^18.13.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  }
+}
